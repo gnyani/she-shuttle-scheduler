@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/she-shuttle-schedule.iml" filepath="$PROJECT_DIR$/.idea/modules/she-shuttle-schedule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/she-shuttle-schedule-api/she-shuttle-schedule-api.iml" filepath="$PROJECT_DIR$/.idea/modules/she-shuttle-schedule-api/she-shuttle-schedule-api.iml" group="she-shuttle-schedule-api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/she-shuttle-schedule-api/she-shuttle-schedule-api_main.iml" filepath="$PROJECT_DIR$/.idea/modules/she-shuttle-schedule-api/she-shuttle-schedule-api_main.iml" group="she-shuttle-schedule-api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/she-shuttle-schedule-api/she-shuttle-schedule-api_test.iml" filepath="$PROJECT_DIR$/.idea/modules/she-shuttle-schedule-api/she-shuttle-schedule-api_test.iml" group="she-shuttle-schedule-api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/she-shuttle-schedule-core/she-shuttle-schedule-core.iml" filepath="$PROJECT_DIR$/.idea/modules/she-shuttle-schedule-core/she-shuttle-schedule-core.iml" group="she-shuttle-schedule-core" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/she-shuttle-schedule-core/she-shuttle-schedule-core_main.iml" filepath="$PROJECT_DIR$/.idea/modules/she-shuttle-schedule-core/she-shuttle-schedule-core_main.iml" group="she-shuttle-schedule-core" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/she-shuttle-schedule-core/she-shuttle-schedule-core_test.iml" filepath="$PROJECT_DIR$/.idea/modules/she-shuttle-schedule-core/she-shuttle-schedule-core_test.iml" group="she-shuttle-schedule-core" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/she-shuttle-schedule_main.iml" filepath="$PROJECT_DIR$/.idea/modules/she-shuttle-schedule_main.iml" group="she-shuttle-schedule" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/she-shuttle-schedule_test.iml" filepath="$PROJECT_DIR$/.idea/modules/she-shuttle-schedule_test.iml" group="she-shuttle-schedule" />
+    </modules>
+  </component>
+</project>
